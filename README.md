@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Owais</h1>
-# About Me
+
 <h3 align="center">I'm a Student at MS Ramaiah Institute Of Technology, currently an Undergraduate persuing Information Science. I spend my time coding, problem-solving and Gaming.</h3>
 
 - 🌱 I’m currently learning **MongoDB**
@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **Programmers ain't ever satisfied with their work.**
 
-# <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/owai_okay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owai_okay" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/owais-iqbal-3a3363225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owais iqbal" height="30" width="40" /></a>
