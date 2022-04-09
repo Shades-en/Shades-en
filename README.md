@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Owais</h1>
 <br>
 <h3><b>About Me:</b></h3>
-<h3 align="center">I'm a Student at MS Ramaiah Institute Of Technology, currently an Undergraduate persuing Information Science. I spend my time coding, problem-solving and Gaming.</h3>
+<h3 >I'm a Student at MS Ramaiah Institute Of Technology, currently an Undergraduate persuing Information Science. I spend my time coding, problem-solving and Gaming.</h3>
 
 - 🌱 I’m currently learning **MongoDB**
 
