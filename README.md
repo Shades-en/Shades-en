@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Owais</h1>
-<img src="programmer.gif" alt="gif" />
+<img align="center" src="programmer.gif" alt="gif" />
 
 <h3><b>About Me:</b></h3>
 <h4>I'm a Student at MS Ramaiah Institute Of Technology, currently an Undergraduate persuing Information Science. I spend my time coding, problem-solving and Gaming.</h4>
