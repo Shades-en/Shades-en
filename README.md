@@ -6,7 +6,7 @@
 <h3><b>About Me:</b></h3>
 <h4>I'm a Student at MS Ramaiah Institute Of Technology, currently an Undergraduate persuing Information Science. I spend my time coding, problem-solving and Gaming.</h4>
 
-- 🌱 I’m currently learning **MongoDB**
+- <---🌱 I’m currently learning **MongoDB**---/>
 
 - 📫 How to reach me **owaisiqbal2013@gmail.com**
 
@@ -28,7 +28,8 @@
 <br>
 <h3>Communities:</h3>
 <ul>
-  <li>PR and Sponsorship executive at Entrepreneurship Development Cell</li>
+  <li>PR and Sponsorship Secondary core at Entrepreneurship Development Cell</li>
+ <li>Core Member @ GDSC RIT</li>
 </ul>
 <br>
 <h3> Languages Used: </h3>
