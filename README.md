@@ -6,8 +6,6 @@
 <h3><b>About Me:</b></h3>
 <h4>I'm a Student at MS Ramaiah Institute Of Technology, currently an Undergraduate persuing Information Science. I spend my time coding, problem-solving and Gaming.</h4>
 
-- <---🌱 I’m currently learning **MongoDB**---/>
-
 - 📫 How to reach me **owaisiqbal2013@gmail.com**
 
 - ⚡ Fun fact **Programmers ain't ever satisfied with their work.**
