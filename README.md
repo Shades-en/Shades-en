@@ -28,7 +28,7 @@
 <br>
 <h3>Communities:</h3>
 <ul>
-  <li>PR and Sponsorship Secondary core at Entrepreneurship Development Cell</li>
+  <li>Head of Upstarters at Entrepreneurship Development Cell, RIT</li>
  <li>Core Member @ GDSC RIT</li>
 </ul>
 <br>
