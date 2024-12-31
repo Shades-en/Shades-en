@@ -4,11 +4,18 @@
  </div>
 
 <h3><b>About Me:</b></h3>
-<h4>I'm a Cloud ops intern @Zebra Technologies and a student at MS Ramaiah Institute Of Technology, currently an Undergraduate persuing Information Science. I spend my time coding, problem-solving and Gaming.</h4>
+<h4>I'm an Associate Software Engineer @Lowes India. I spend my time coding, problem-solving and Gaming.</h4>
 
 - 📫 How to reach me **owaisiqbal2013@gmail.com**
 
 - ⚡ Fun fact **Programmers ain't ever satisfied with their work.**
+<br>
+<h3>Interests:</h3>
+<ul>
+  <li>Agentic Artificial Intelligence</li>
+  <li>Finance and Analytics</li>
+  <li>Scripting and Automation</li>
+</ul>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,11 +33,6 @@
 
 <a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,html,js,docker,react,nodejs,figma,java,flask,django,mysql,mongodb,py,qt,tailwind,firebase,linux,jquery,tensorflow,azure,postman,gcp,unity,fastapi,pytorch,kubernetes,terraform,nextjs,ts,spring" /></a> 
 <br>
-<h3>Communities:</h3>
-<ul>
-  <li>Head of Upstarters at Entrepreneurship Development Cell, RIT</li>
- <li>Core Member @ GDSC RIT</li>
-</ul>
-<br>
+
 <h3> Languages Used: </h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shades-en&show_icons=true&locale=en&layout=compact" alt="shades-en" /></p>
