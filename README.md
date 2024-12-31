@@ -4,7 +4,7 @@
  </div>
 
 <h3><b>About Me:</b></h3>
-<h4>I'm an Associate Software Engineer @Lowes India. I spend my time coding, problem-solving and Gaming.</h4>
+<h4>I'm an Associate Software Engineer @Lowe's India. I spend my time coding, problem-solving and Gaming.</h4>
 
 - 📫 How to reach me **owaisiqbal2013@gmail.com**
 
